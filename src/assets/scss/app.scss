@@ -1,0 +1,13 @@
+@import '~antd/dist/antd.css';
+@import 'button';
+@import 'block';
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body, #root, .wrapper {
+    height: 100%;
+    color: #323232;
+}
